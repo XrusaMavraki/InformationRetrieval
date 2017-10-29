@@ -1,0 +1,198 @@
+The date is: 2016-11-20
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 0 #syriza_negative 1
+@nd_positive 0 @nd_negative 0 #nd_positive 0 #nd_negative 1
+The date is: 2016-11-21
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 3 #syriza_negative 7
+@nd_positive 6 @nd_negative 13 #nd_positive 2 #nd_negative 6
+The date is: 2016-11-22
+@syriza_positive 1 @syriza_negative 0 #syriza_positive 2 #syriza_negative 0
+@nd_positive 3 @nd_negative 3 #nd_positive 0 #nd_negative 3
+The date is: 2016-11-23
+@syriza_positive 0 @syriza_negative 3 #syriza_positive 3 #syriza_negative 11
+@nd_positive 26 @nd_negative 35 #nd_positive 3 #nd_negative 9
+The date is: 2016-11-24
+@syriza_positive 0 @syriza_negative 2 #syriza_positive 2 #syriza_negative 5
+@nd_positive 2 @nd_negative 8 #nd_positive 0 #nd_negative 1
+The date is: 2016-11-26
+@syriza_positive 0 @syriza_negative 1 #syriza_positive 1 #syriza_negative 3
+@nd_positive 6 @nd_negative 10 #nd_positive 0 #nd_negative 0
+The date is: 2016-11-27
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 5 #syriza_negative 3
+@nd_positive 3 @nd_negative 7 #nd_positive 0 #nd_negative 3
+The date is: 2016-11-28
+@syriza_positive 0 @syriza_negative 2 #syriza_positive 3 #syriza_negative 4
+@nd_positive 10 @nd_negative 14 #nd_positive 1 #nd_negative 0
+The date is: 2016-11-29
+@syriza_positive 2 @syriza_negative 2 #syriza_positive 2 #syriza_negative 9
+@nd_positive 18 @nd_negative 33 #nd_positive 2 #nd_negative 1
+The date is: 2016-11-30
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 0 #syriza_negative 2
+@nd_positive 0 @nd_negative 5 #nd_positive 0 #nd_negative 1
+The date is: 2016-12-03
+@syriza_positive 0 @syriza_negative 1 #syriza_positive 1 #syriza_negative 2
+@nd_positive 0 @nd_negative 1 #nd_positive 0 #nd_negative 0
+The date is: 2016-12-04
+@syriza_positive 1 @syriza_negative 3 #syriza_positive 1 #syriza_negative 2
+@nd_positive 0 @nd_negative 1 #nd_positive 0 #nd_negative 0
+The date is: 2016-12-05
+@syriza_positive 0 @syriza_negative 2 #syriza_positive 7 #syriza_negative 8
+@nd_positive 8 @nd_negative 11 #nd_positive 0 #nd_negative 2
+The date is: 2016-12-08
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 0 #syriza_negative 1
+@nd_positive 1 @nd_negative 0 #nd_positive 0 #nd_negative 0
+The date is: 2016-12-15
+@syriza_positive 1 @syriza_negative 0 #syriza_positive 9 #syriza_negative 12
+@nd_positive 9 @nd_negative 21 #nd_positive 3 #nd_negative 6
+The date is: 2016-12-16
+@syriza_positive 3 @syriza_negative 7 #syriza_positive 0 #syriza_negative 4
+@nd_positive 1 @nd_negative 12 #nd_positive 1 #nd_negative 2
+The date is: 2016-12-17
+@syriza_positive 5 @syriza_negative 8 #syriza_positive 1 #syriza_negative 5
+@nd_positive 21 @nd_negative 25 #nd_positive 6 #nd_negative 0
+The date is: 2016-12-22
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 0 #syriza_negative 2
+@nd_positive 1 @nd_negative 5 #nd_positive 0 #nd_negative 0
+The date is: 2016-12-28
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 0 #syriza_negative 1
+@nd_positive 1 @nd_negative 7 #nd_positive 0 #nd_negative 1
+The date is: 2016-12-29
+@syriza_positive 0 @syriza_negative 0 #syriza_positive 0 #syriza_negative 1
+@nd_positive 1 @nd_negative 3 #nd_positive 0 #nd_negative 0
+For week 48
+The total tweets were: 182
+The total positive tweets were: 60.0
+The total negative tweets were: 122.0
+The total mean positive was: 5.0
+the total mean negative was: 10.166666666666668
+The total variance positive was 62.36363636363637
+The total variance negative was 144.15151515151513
+By party
+Syriza had : 12.0 positive tweets and 33.0 negative tweets
+New Democracy had: 48.0 positive tweets and 89.0 negative tweets
+By party the mean positive was: 
+For Syriza : 2.0
+For New Democracy: 8.0
+By party the variance for positive was: 
+For Syriza : 1.6
+For New Democracy: 114.0
+By party the mean negative was: 
+For Syriza: 5.5
+For New Democracy: 14.833333333333334
+By party the variance for negative was: 
+For Syriza : 25.9
+For New Democracy: 238.96666666666664
+For week 49
+The total tweets were: 137
+The total positive tweets were: 47.0
+The total negative tweets were: 90.0
+The total mean positive was: 4.7
+the total mean negative was: 9.0
+The total variance positive was 40.01111111111111
+The total variance negative was 95.33333333333333
+By party
+Syriza had : 13.0 positive tweets and 25.0 negative tweets
+New Democracy had: 34.0 positive tweets and 65.0 negative tweets
+By party the mean positive was: 
+For Syriza : 2.6
+For New Democracy: 6.8
+By party the variance for positive was: 
+For Syriza : 4.300000000000001
+For New Democracy: 74.7
+By party the mean negative was: 
+For Syriza: 5.0
+For New Democracy: 13.0
+By party the variance for negative was: 
+For Syriza : 13.5
+For New Democracy: 161.0
+For week 50
+The total tweets were: 48
+The total positive tweets were: 18.0
+The total negative tweets were: 30.0
+The total mean positive was: 3.0
+the total mean negative was: 5.0
+The total variance positive was 12.8
+The total variance negative was 29.2
+By party
+Syriza had : 9.0 positive tweets and 16.0 negative tweets
+New Democracy had: 9.0 positive tweets and 14.0 negative tweets
+By party the mean positive was: 
+For Syriza : 3.0
+For New Democracy: 3.0
+By party the variance for positive was: 
+For Syriza : 13.0
+For New Democracy: 19.0
+By party the mean negative was: 
+For Syriza: 5.333333333333333
+For New Democracy: 4.666666666666666
+By party the variance for negative was: 
+For Syriza : 20.333333333333336
+For New Democracy: 52.333333333333336
+For week 51
+The total tweets were: 162
+The total positive tweets were: 60.0
+The total negative tweets were: 102.0
+The total mean positive was: 10.0
+the total mean negative was: 17.0
+The total variance positive was 84.4
+The total variance negative was 50.0
+By party
+Syriza had : 19.0 positive tweets and 36.0 negative tweets
+New Democracy had: 41.0 positive tweets and 66.0 negative tweets
+By party the mean positive was: 
+For Syriza : 6.333333333333333
+For New Democracy: 13.666666666666666
+By party the variance for positive was: 
+For Syriza : 12.333333333333334
+For New Democracy: 158.33333333333331
+By party the mean negative was: 
+For Syriza: 12.0
+For New Democracy: 22.0
+By party the variance for negative was: 
+For Syriza : 1.0
+For New Democracy: 49.0
+For week 52
+The total tweets were: 8
+The total positive tweets were: 1.0
+The total negative tweets were: 7.0
+The total mean positive was: 0.5
+the total mean negative was: 3.5
+The total variance positive was 0.5
+The total variance negative was 4.5
+By party
+Syriza had : 0.0 positive tweets and 2.0 negative tweets
+New Democracy had: 1.0 positive tweets and 5.0 negative tweets
+By party the mean positive was: 
+For Syriza : 0.0
+For New Democracy: 1.0
+By party the variance for positive was: 
+For Syriza : 0.0
+For New Democracy: 0.0
+By party the mean negative was: 
+For Syriza: 2.0
+For New Democracy: 5.0
+By party the variance for negative was: 
+For Syriza : 0.0
+For New Democracy: 0.0
+For week 53
+The total tweets were: 15
+The total positive tweets were: 2.0
+The total negative tweets were: 13.0
+The total mean positive was: 0.5
+the total mean negative was: 3.25
+The total variance positive was 0.3333333333333333
+The total variance negative was 10.916666666666666
+By party
+Syriza had : 0.0 positive tweets and 2.0 negative tweets
+New Democracy had: 2.0 positive tweets and 11.0 negative tweets
+By party the mean positive was: 
+For Syriza : 0.0
+For New Democracy: 1.0
+By party the variance for positive was: 
+For Syriza : 0.0
+For New Democracy: 0.0
+By party the mean negative was: 
+For Syriza: 1.0
+For New Democracy: 5.5
+By party the variance for negative was: 
+For Syriza : 0.0
+For New Democracy: 12.5
